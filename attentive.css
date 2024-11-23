@@ -28,7 +28,7 @@ body {
 
 .media ul {
   display: flex;
-  justify-content: SPACE-BETWEEN;
+  gap: 48px;
   list-style: none;
   width: 100%;
   align-items: center;
